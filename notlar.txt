@@ -1,0 +1,5 @@
+pwd — where am I?
+ls — list files
+ls -l — long format (permissions, size, date)
+ls -la — include hidden files (starting with .)
+ls -lh — human-readable file sizes
