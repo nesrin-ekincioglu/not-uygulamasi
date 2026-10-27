@@ -1,4 +1,8 @@
-pwd — where am I?
+git init — Yeni bir Git reposu baslatir
+git status — Nelerin degistigini gosterir
+git add file.txt — Dosyayi hazirlik alanina (staging area) alir
+git commit -m "Add week 5 notes" — Hazirlik alanindaki degisiklikleri kalici snapshot olarak kaydeder
+git log --oneline — Commit gecmisini tek satirda ozet olarak listelerpwd — where am I?
 ls — list files
 ls -l — long format (permissions, size, date)
 ls -la — include hidden files (starting with .)

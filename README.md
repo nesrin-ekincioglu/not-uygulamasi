@@ -1,1 +1,1 @@
-Geliştirici: Nesrin Ekincioğlu (main versiyonu) # not-uygulamasi 
+Geliştirici: Nesrin Ekincioğlu (main ve feature versiyonları birleştirildi)
